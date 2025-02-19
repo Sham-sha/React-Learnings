@@ -8,7 +8,6 @@ function Card(){
             <h2>Sam</h2>
             <p>I am a React developer</p>
         </div>
-
     );
 }
 export default Card;
